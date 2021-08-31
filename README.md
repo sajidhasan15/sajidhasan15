@@ -1,6 +1,6 @@
 ![](https://pbs.twimg.com/profile_banners/1330717898512363521/1606106505/600x200)
 
-## Hi there, I'm Sajid Hasan 👋
+## Hi, I'm Sajid Hasan 👋
 <p>
   
 ![Profile views](https://gpvc.arturio.dev/sajidhasan15) 

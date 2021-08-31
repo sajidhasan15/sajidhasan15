@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sajid Hasan</h1>
 #### Quick Learner, Mentor, Firefighter
 ![Quick Learner, Mentor, Firefighter](https://pbs.twimg.com/profile_banners/1330717898512363521/1606106505/600x200)
 

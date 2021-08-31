@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Sajid Hasan
 ![](https://pbs.twimg.com/profile_banners/1330717898512363521/1606106505/600x200)
 
-I'm a Fresh Graduate CSE at Daffodil International University. Experience in working JavaScript different types of frameworks. Working with Angular js, Angular 8,9, and React 16, 17. Experience in working at SELISE Rockin' Software in an internship program for four months.
+I'm a Fresh Graduate CSE at Daffodil International University.
+Experience in working JavaScript different types of frameworks.
+Working with Angular js, Angular 8,9, and React 16, 17.
 
 - 🔭 I’m currently working on this page. 
 

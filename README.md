@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_banners/1330717898512363521/1606106505/1200x200)
+![](https://pbs.twimg.com/profile_banners/1330717898512363521/1606106505/600x200)
 ### Hi there 👋, I'm Sajid Hasan
 <p>
 

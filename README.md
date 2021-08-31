@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sajid Hasan
 ![](https://pbs.twimg.com/profile_banners/1330717898512363521/1606106505/600x200)
-<hr />
+<p>
 
 I'm a Fresh Graduate CSE at Daffodil International University.
 Experience in working JavaScript different types of frameworks.

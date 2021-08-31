@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Sajid Hasan
 ![](https://pbs.twimg.com/profile_banners/1330717898512363521/1606106505/600x200)
+<hr />
 
 I'm a Fresh Graduate CSE at Daffodil International University.
 Experience in working JavaScript different types of frameworks.
@@ -15,6 +16,7 @@ Working with Angular js, Angular 8,9, and React 16, 17.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajidhasan15)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidhasan15&show_icons=true)  
+![Sajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajidhasan15&show_icons=true&theme=highcontrast) 
+
 
 ![Profile views](https://gpvc.arturio.dev/sajidhasan15)  

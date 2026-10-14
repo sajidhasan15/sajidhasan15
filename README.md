@@ -1,6 +1,10 @@
 ![](https://pbs.twimg.com/profile_banners/1330717898512363521/1606106505/600x200)
 
 ## Hi, I'm Sajid Hasan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+<p>👨&zwj;💻 I am a Software Engineer &amp; Technical SEO Specialist <br /> ⚡ I build fast, crawlable, conversion-focused websites <br /> 🔎 Core Web Vitals, schema and GEO/AEO are my playground</p>
+<p align="left"><a href="https://www.linkedin.com/in/sajid-hasan22" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a> <a href="https://sajidhasan.dev" target="blank"><img src="https://img.shields.io/badge/Portfolio-sajidhasan.dev-10B981?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a></p>
+
 <p>
   https://github.com/sajidhasan15/sajidhasan15/blob/main/README.md
 <!-- ![Profile views](https://gpvc.arturio.dev/sajidhasan15) -->
